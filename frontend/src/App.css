@@ -1,0 +1,33 @@
+.font-semibold {
+  font-size: 13px;
+  font-weight: 600;
+  color:'#7F56D9';
+  margin-bottom: 5px;
+}
+
+
+.font-semibold-sidebar {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.font-regular {
+  font-size: 13px;
+  color:'#7F56D9';
+}
+
+/* Hide the default file input */
+.hidden-input {
+  display: none;
+}
+
+/* Style the custom upload button */
+.upload-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+  text-align: center;
+}
