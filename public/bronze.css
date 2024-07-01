@@ -1,0 +1,176 @@
+#html{
+    place-content: center;
+    text-align: center;
+    font:Arial, Helvetica;
+}
+#head{
+    position: center;
+    text-align: center;
+    color:rgb(93, 0, 180);
+    font:Arial, Helvetica;
+}
+#body{
+    background-color: rgb(214, 236, 248);
+}
+#container{
+    width: 450px;
+    height: 90%;
+    padding: 10px;
+    background-color: white;
+    border: 5px;
+    margin: auto;   
+    border-radius: 10px;
+    display:block;
+    margin-bottom: 20px;
+}
+#b1,
+#b2,
+#b3,
+#b4,
+#b5,
+#b6,
+#b7,
+#b8,
+#b9,
+#b10,
+#b11,
+#b12,
+#b13,
+#b14,
+#b15{
+    
+    display: inline-block;
+    outline: 0;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px 0 rgb(213 217 217 / 50%);
+    background: rgb(120, 17, 215);
+    border: 1px solid rgb(126, 59, 188);
+    font-size: 13px;
+    height: 31px;
+    padding: 0 11px;
+    text-align: center;
+    width: 100%;
+    min-width: 200px;
+    font-weight: 500;
+    color: white;
+    margin-bottom: 20px;
+}
+    #b1:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b2:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b3:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b4:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b5:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b6:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b7:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b8:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b8:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b8:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b8:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b9:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b10:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b11:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b12:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b13:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b14:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+    #b15:hover{
+        background: rgb(87, 34, 137);
+        border-color: rgba(76, 0, 147, 0.936);
+        box-shadow: 0 3px 5px 0 rgba(128, 130, 130, 0.929);
+    }
+   
+
+    #test1,
+    #test2,
+    #test3,
+    #test4,
+    #test5,
+    #test6,
+    #test7,
+    #test8,
+    #test9,
+    #test10,
+    #test11,
+    #test12,
+    #test13,
+    #test14,
+    #test15 {
+        display:none;
+        height:125px;
+        width:100%;
+        border-radius: 8px;
+        margin-bottom: 18px;
+        border-width:1px;
+        border-color: rgba(76, 0, 147, 0.936);
+
+        };
+
+
